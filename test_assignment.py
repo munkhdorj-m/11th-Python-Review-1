@@ -45,7 +45,7 @@ def test4(num, expected):
     (157, True),
     (432, False),
     (5, False),
-    (105, True),
+    (1050, True),
     (99, False)
 ])
 def test5(num, expected):
