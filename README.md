@@ -9,18 +9,19 @@ https://drive.google.com/file/d/1_Spi5yo7H50BZ933mYh-zUveuMAroKe4/view?usp=shari
 
 **Problem:**
 
-Input the length and width of a rectangle. Calculate and print the area.
+Input a number and check if the last digit is even or odd.
 
 **Example:**
 
-    Input: 5 3
-    Output: 15
+    Input: 123
+    Output: Odd
     
-    Input: 10 2
-    Output: 20
+    Input: 246
+    Output: Even
     
-    Input: 7 7
-    Output: 49
+    Input: 0
+    Output: Even
+
 
 ---
 
@@ -28,14 +29,14 @@ Input the length and width of a rectangle. Calculate and print the area.
 
 **Problem:**
 
-Check if a number is positive or negative. (_A number greater than 0 is positive, less than 0 is negative, and 0 is neither._)
+Check if a number is positive or negative.
 
 **Example:**
-
-    Input: 5
+    
+    Input: 10
     Output: Positive
     
-    Input: -7
+    Input: -5
     Output: Negative
     
     Input: 0
@@ -48,17 +49,17 @@ Check if a number is positive or negative. (_A number greater than 0 is positive
 
 **Problem:**
 
-Check if a number is divisible by 5.
+Input a number and check if it has an even number of digits.
 
 **Example**
 
-    Input: 25
+    Input: 1234
     Output: True
     
-    Input: 12
+    Input: 567
     Output: False
     
-    Input: 0
+    Input: 89
     Output: True
 ---
 
@@ -66,35 +67,35 @@ Check if a number is divisible by 5.
 
 **Problem:**
 
-Input 4 numbers and check if their sum is even or odd.
+Input a number and find the largest digit in it.
 
 **Example**
 
-    Input: 1 2 3 4
-    Output: Even
+    Input: 472
+    Output: 7
     
-    Input: 5 6 2 2
-    Output: Odd
+    Input: 1059
+    Output: 9
     
-    Input: 2 2 2 2
-    Output: Even
+    Input: 333
+    Output: 3
 ---
 
 ## Exercise 5
 
 **Problem:**
 
-Input a three-digit number and check if it is divisible by the sum of its digits.
+Input a number and check if the second last digit is 5. _(If the number has less than 2 digits, return False.)_
 
 **Example**
 
-    Input: 150
+    Input: 157
     Output: True
     
-    Input: 456
+    Input: 432
     Output: False
     
-    Input: 132
-    Output: True
+    Input: 5
+    Output: False
 ---
 
