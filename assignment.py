@@ -1,7 +1,7 @@
 # You can remove 'pass' if you written code in the function 
 
 # Exercise 1
-def last_digit_even_or_odd(length, width):
+def last_digit_even_or_odd(num):
     # Write your code here
     pass
 
@@ -16,7 +16,7 @@ def has_even_digits(num):
     pass
 
 # Exercise 4
-def largest_digit(a, b, c, d):
+def largest_digit(num):
     # Write your code here
     pass
 
